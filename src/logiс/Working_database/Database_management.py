@@ -423,4 +423,3 @@ async def reload_bd():
     print("--- %s seconds ---" % (time.time() - start_time))
 
 asyncio.run(reload_bd())
-#123
